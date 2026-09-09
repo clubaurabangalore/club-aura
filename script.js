@@ -1,7 +1,7 @@
 document.getElementById('form').addEventListener('submit',function(e){
  e.preventDefault();
  // Replace this placeholder with Club Aura's WhatsApp number (country code + number, no + or spaces).
- const number='919999999999';
+ const number='916360246299';
  const name=document.getElementById('name').value;
  const guests=document.getElementById('guests').value;
  const date=document.getElementById('date').value;
