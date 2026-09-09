@@ -14,7 +14,7 @@ document.getElementById('form').addEventListener('submit', function(e) {
 
 
 // DANDIYA NIGHTS COUNTDOWN
-const eventDate = new Date('2026-09-17T15:00:00+05:30').getTime();
+const eventDate = new Date('2026-10-17T15:00:00+05:30').getTime();
 
 function updateCountdown() {
   const countdown = document.getElementById('countdown');
