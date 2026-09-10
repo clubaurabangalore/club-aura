@@ -47,3 +47,8 @@
     display: block;
     margin: 0 auto 28px;
 }
+
+/* BRIGHTER HERO IMAGE */
+.hero-bg {
+    filter: brightness(1.22);
+}
